@@ -1,5 +1,5 @@
 function linear(time, begin, change, duration) {
-    return change * (time / duration) + start;
+    return change * (time / duration) + begin;
 }
 
 
